@@ -354,7 +354,6 @@ img {
   margin: 0px;
   border-radius: 0px;
 }
-
 .newsletter-form button {
   flex: 1 1 200px;
   font-family: 'Nunito', sans-serif;
@@ -374,7 +373,6 @@ img {
     font-size: 1.5em;
   }
 }
-
 /* FOOTER */
 
 .footer {
